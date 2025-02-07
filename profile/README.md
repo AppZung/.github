@@ -28,4 +28,4 @@ AppZung provides a modern and secure CodePush platform for mobile developers, of
 
 ## 📝 License
 
-All public repositories under the AppZung organization are licensed under the [MIT License](LICENSE).
+All public repositories under the AppZung organization are licensed under the [MIT License](../LICENSE).

@@ -4,10 +4,10 @@ AppZung provides a modern and secure CodePush platform for mobile developers, of
 
 ## 🌟 Key features
 
-- **One-command Migration**: Seamlessly migrate from AppCenter CodePush with a single CLI command
-- **Framework Compatibility**: Full React Native support plus compatibility with other mobile frameworks
-- **Advanced Security**: Code signing, encryption, and robust security controls
-- **Enterprise-grade Infrastructure**: EU-based hosting, worldwide CDN distribution, and code signing security on all plans
+- **One-command migration**: Seamlessly migrate from AppCenter CodePush with a single CLI command
+- **Framework compatibility**: Full React Native support plus compatibility with other mobile frameworks
+- **Advanced security**: Code signing, encryption, and robust security controls
+- **Enterprise-grade infrastructure**: EU-based hosting, worldwide CDN distribution, and code signing security on all plans
 - **Privacy-focused**: GDPR-compliant infrastructure and data handling
 
 ## 🚀 Getting started

@@ -20,6 +20,7 @@ AppZung provides a modern and secure CodePush platform for mobile developers, of
 
 - [@appzung/cli](https://npmjs.com/package/@appzung/cli) - Command line tools for AppZung CodePush
 - [react-native-code-push](https://github.com/AppZung/react-native-code-push) - React Native CodePush SDK
+- [expo-config-code-push](https://github.com/AppZung/expo-config-code-push) - Expo config plugin for the React Native CodePush SDK
 
 ## 💬 Support
 
